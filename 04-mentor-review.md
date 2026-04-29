@@ -2,7 +2,7 @@
 
 ← [Back to Learning Framework](./README.md)
 
-**When:** Friday afternoon, 15 minutes per participant  
+**When:** Friday afternoon
 **Artifact:** —
 
 ---
@@ -13,20 +13,24 @@ This is where the high-level thinking happens — code quality, architectural de
 
 ---
 
-## Format
+## Friday afternoon timeline
 
 | Time | Activity |
-|---|---|
-| **0–8 min** | Mentor works through the Questions List — explains, reframes, or demonstrates. They've already read it. |
+| --- | --- |
+| **13:00 – 14:00** | 4 reviews |
+| **14:00 – 14:15** | Break |
+| **14:15 – 15:15** | 4 reviews |
+
+---
+
+## Format: 15 minutes per participant
+
+| Time | Activity |
+| --- | --- |
+| **0–8 min** | Mentor works through the Questions List — explains, reframes, or demonstrates. |
 | **8–13 min** | Mentor brings up something they noticed that you didn't ask about — the blind spot. |
 | **13–15 min** | One concrete focus for next week, stated clearly. |
 
 ---
 
-## The filter the peer review provides
-
-> Questions your peers can answer get resolved on Friday morning. What reaches the mentor has already survived that filter. That makes the 15 minutes significantly more valuable — for you and for them.
-
----
-
-*LEVEL3 · Arkadia Heilbronn gGmbH · level3@arkadia.hn · level3.hn*
+*LEVEL3 · Arkadia Heilbronn gGmbH · <level3@arkadia.hn> · level3.hn*

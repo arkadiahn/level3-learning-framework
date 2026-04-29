@@ -16,6 +16,18 @@ The presentation should be something you could take and deliver somewhere else �
 
 ---
 
+## Presentation day timeline
+
+| Time | Activity |
+| --- | --- |
+| **9:30 – 13:00** | Presentation preparation |
+| **13:00 – 14:00** | Rehearsal in the LEVEL3 room |
+| **14:45 – 15:45** | Rehearsal at the OpenSpace |
+| **16:00 – 17:00** | Presentation and Q&A session |
+| **17:15 – 18:45** | 🎉 After track pizza party 🎉 |
+
+---
+
 ## Structure
 
 A good talk has a clear arc. Here's the format we use:
@@ -35,8 +47,8 @@ A good talk has a clear arc. Here's the format we use:
 - **One clear thread.** Not everything you did — one problem, decision, or insight that you can take the audience through completely.
 - **Be honest about what didn't work.** That's often more interesting and more credible than what did.
 - **Know your first sentence.** The opening sets the tone. Prepare it word for word.
-- **Rehearse out loud at least once.** Reading it in your head is not the same thing.
+- **Rehearse out loud at least once.**
 
 ---
 
-*LEVEL3 · Arkadia Heilbronn gGmbH · level3@arkadia.hn · level3.hn*
+*LEVEL3 · Arkadia Heilbronn gGmbH · <level3@arkadia.hn> · level3.hn*

@@ -11,7 +11,17 @@
 
 Each week at LEVEL3 is one module. The Friday peer review is a structured conversation about that module — what you built, how you approached it, and what you still don't fully get.
 
-This is not a code review. Your job as reviewer isn't to find bugs — it's to understand your peer's work well enough to ask good questions, and together surface the gaps neither of you can fill on your own. Those gaps become the Questions List, which goes to the mentor in the afternoon.
+This is not a code review. Your job as reviewer is to **understand your peer's work** well enough to ask good questions, and together surface the gaps neither of you can fill on your own. Those gaps become the **Questions List**, which **goes to the mentor** in the afternoon.
+
+---
+
+## Friday morning timeline
+
+| Time | Activity |
+| --- | --- |
+| **9:30 – 10:00** | Preparation: go through your own work and structure how you want to present it to your peers |
+| **10:00 – 10:30** | First round |
+| **10:30 – 11:00** | Second round |
 
 ---
 
@@ -20,11 +30,10 @@ This is not a code review. Your job as reviewer isn't to find bugs — it's to u
 Each pair reviews each other, so you're both reviewer and reviewee in the same session. If you're not sure what to look for or how to start the conversation, there's a checklist to help you — it covers the kinds of questions that tend to lead to good discussions.
 
 | Time | Activity |
-|---|---|
+| --- | --- |
 | **0–5 min** | Author gives a quick module tour: what the week's goal was, what you built, one decision you're proud of |
 | **5–20 min** | Reviewer asks questions until they genuinely understand the approach. Author answers. If neither of you knows → it goes on the Questions List |
-| **20–28 min** | Together: anything you'd do differently? Can you implement one small improvement right now? |
-| **28–30 min** | Reviewer wraps up in two sentences: "You did X well. I'd ask the mentor about Y." |
+| **20–30 min** | Together: anything you'd do differently? Can you implement one small improvement right now? |
 
 ---
 
@@ -50,4 +59,4 @@ Two things this achieves: you've genuinely tried to resolve things before escala
 
 ---
 
-*LEVEL3 · Arkadia Heilbronn gGmbH · level3@arkadia.hn · level3.hn*
+*LEVEL3 · Arkadia Heilbronn gGmbH · <level3@arkadia.hn> · level3.hn*

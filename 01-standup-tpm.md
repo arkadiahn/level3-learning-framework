@@ -15,31 +15,32 @@ The TPM (Total Productivity Management) board is a shared artifact. It makes the
 
 ---
 
-## How it runs
+## How it runs — and how to get something out of it
 
-Fill in your board **before you walk in** — not during the standup. Each participant answers three questions:
+Fill in your board **before you walk in** — not during the standup. Each participant answers three core questions:
 
 - What did I work on yesterday?
 - What am I working on today?
 - Is there anything blocking me?
 
----
+But those three questions are just the start. To keep the standup sharp and useful, every participant should:
 
-## Why the energy fades — and how to keep it
+**As you fill the board:**
 
-> Early on, everyone has loads of new things to share. The board fills up, conversations get interesting. But soon the novelty wears off, updates get mechanical, and the standup becomes a verbal read-out of the board.
->
-> The fix: treat blockers as conversation starters, not just flags. When someone says they're stuck, the group asks one question. When someone shares a decision, someone asks why. Every standup should spark at least one real discussion — not just a round of updates.
+- If you're not blocked, ask yourself: *What part of my plan could go wrong?* or *What part am I least confident about?* Write that down instead. Share the real question, not just progress.
 
----
+**When you speak:**
 
-## How to get something out of it
-
-- Fill the board before you arrive, not while everyone's waiting.
-- If you're not blocked, ask yourself: what's the riskiest assumption in my plan today? Share that instead.
-- Actually listen. If a peer's update connects to something you're working on, say so.
 - Keep your update short. The standup surfaces topics — the deeper conversations happen after.
+- If a peer's update connects to something you're working on, say so immediately.
+
+**As you listen:**
+
+- When someone names a blocker, don't just nod. Ask one follow-up question: *What have you tried so far?* or *What would unblock you?*
+- When someone shares a decision, ask *why* — help them think it through out loud.
+- Actually listen. The goal is one real discussion per standup, not a round of mechanical updates.
 
 ---
 
-*LEVEL3 · Arkadia Heilbronn gGmbH · level3@arkadia.hn · level3.hn*
+*LEVEL3 · Arkadia Heilbronn gGmbH · <level3@arkadia.hn>
+ · level3.hn*
