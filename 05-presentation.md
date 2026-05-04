@@ -23,7 +23,7 @@ The presentation should be something you could take and deliver somewhere else �
 | **9:30 – 13:00** | Presentation preparation |
 | **13:00 – 14:00** | Rehearsal in the LEVEL3 room |
 | **14:45 – 15:45** | Rehearsal at the OpenSpace |
-| **16:00 – 17:00** | Presentation and Q&A session at the OpenSpace|
+| **16:00 – 17:00** | Presentation and Q&A session at the OpenSpace |
 | **17:15 – 18:45** | 🎉 After track pizza party 🎉 |
 
 ---

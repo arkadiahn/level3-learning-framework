@@ -18,7 +18,7 @@ Mentors aren't here to give you answers. They're here to push your thinking to a
 
 ---
 
-## Core hour and 2-strike-policy
+## Core hours and 2-strike-policy
 
 To give yourself the best chance of success, plan to invest **40+ hours per week** into your projects. We've set up **core hours from 9:30 to 16:00** (with a lunch break somewhere between 12:00 and 14:00) — during this time, we ask everyone to be present in the LEVEL3 room. Coming in early or staying later is always great! That said, core hours only account for 5.5 hours a day, so you'll need to put in additional time outside of that to keep up. Work hard, but don't forget to take care of yourself too. 🙂
 

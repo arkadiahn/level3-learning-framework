@@ -43,7 +43,6 @@ ML-basics [Day 3]
 → Fix backprop, implement MSE eval
 ```
 
-
 But those three questions are just the start. To keep the standup sharp and useful, every participant should:
 
 **As you fill the board:**
