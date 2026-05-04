@@ -23,7 +23,7 @@ The presentation should be something you could take and deliver somewhere else �
 | **9:30 – 13:00** | Presentation preparation |
 | **13:00 – 14:00** | Rehearsal in the LEVEL3 room |
 | **14:45 – 15:45** | Rehearsal at the OpenSpace |
-| **16:00 – 17:00** | Presentation and Q&A session |
+| **16:00 – 17:00** | Presentation and Q&A session at the OpenSpace|
 | **17:15 – 18:45** | 🎉 After track pizza party 🎉 |
 
 ---
@@ -35,7 +35,7 @@ A good talk has a clear arc. Here's the format we use:
 1. **Problem statement** — what's the real-world problem you're solving? Make it concrete. For example: ML models often stay as ad-hoc scripts with no proper pipeline, no versioning, no reproducibility — industry needs something better.
 2. **Solution** — what did you build, and how does it address the problem?
 3. **Technical explanation** — how does it actually work under the hood? Go deep enough to be interesting, not so deep you lose the room.
-4. **Demo** — show it working. Live if you can. A recording if not.
+4. **Demo** — show it working. Live if you can. A recording if not. Point 3 and 4 can be switched.
 5. **What you learned** — honest reflections from the track. What surprised you? What would you do differently?
 6. **Outlook** — where could this go next? What's the natural extension or open question?
 7. **Q&A** — open it up. Be ready for tough questions, and be honest if you don't know something.

@@ -1,4 +1,4 @@
-# Mid-Week PR Review
+# PR Review
 
 ← [Back to Learning Framework](./README.md)
 
@@ -15,7 +15,7 @@ The goal here is to practice reading unfamiliar code carefully, writing specific
 
 ---
 
-## Setup: the shared sandbox repo
+## Setup: the sandbox repo
 
 Everyone receive a buggy code from one shared GitHub repository under the LEVEL3 organisation. Your work is to open your branch, find a bug, fix it, and open a PR from that branch into `main`. Then we will have 2 rounds code review to close those PRs.
 

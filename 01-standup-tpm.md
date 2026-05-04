@@ -23,11 +23,32 @@ Fill in your board **before you walk in** — not during the standup. Each parti
 - What am I working on today?
 - Is there anything blocking me?
 
+Tags:
+
+| Tag | Meaning |
+| --- | --- |
+| ✓ | Done |
+| ~ | In-progress |
+| ⚠ | Blocker |
+| → | Next step |
+| ? | Need review / feedback |
+
+Example:
+
+``` >plaintext
+ML-basics [Day 3]
+✓ Data cleaned + split (80/20)
+~ Linear model: forward pass ok, backprop buggy
+⚠ Gradient update unclear → will ask during standup
+→ Fix backprop, implement MSE eval
+```
+
+
 But those three questions are just the start. To keep the standup sharp and useful, every participant should:
 
 **As you fill the board:**
 
-- If you're not blocked, ask yourself: *What part of my plan could go wrong?* or *What part am I least confident about?* Write that down instead. Share the real question, not just progress.
+- If you're not blocked, ask yourself: *What part of my plan could go wrong?* or *What part am I least confident about?* Write that down instead. **Share the real question, not just progress**.
 
 **When you speak:**
 
