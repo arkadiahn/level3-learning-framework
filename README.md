@@ -25,9 +25,9 @@ Learning at LEVEL3 is structured around five interconnected practices. Each one 
 | Tool | Purpose | Artifact |
 | --- | --- | --- |
 | [Daily Standup & TPM Board](./01-standup-tpm.md) | Progress visibility, accountability, awareness of what peers are working on | Updated board + spoken update |
-| [Mid-Week PR Review](./02-pr-review.md) | Practice the mechanics of code review — reading, commenting, responding | PR opened and closed same day |
 | [Peer Review](./03-peer-review.md) | Module reflection, peer teaching, surface what you don't fully understand yet | Questions List handed to mentor |
 | [Mentor Review](./04-mentor-review.md) | High-level architecture, blind spots, quality of thinking | — |
+| [PR Review](./02-pr-review.md) | Practice the mechanics of code review — reading, commenting, responding | PR opened and closed same day |
 | [Final Presentation](./05-presentation.md) | Public communication, synthesis, confidence | A deck you can take and present anywhere |
 
 ---
@@ -38,9 +38,7 @@ All five tools fit into the same weekly cycle. Each week is one module, and the 
 
 | When | What |
 | --- | --- |
-| **Mon – Tue** | Deep work on the week's module. Daily standups at 10:00 AM every morning. Fill the TPM board before you walk in. |
-| **Wednesday** | PR opened by 9:30. Reviewer reads and leaves written comments by 10:30. Live review discussion 10:30–11:30. PR closed by 11:30. |
-| **Wed – Thu** | Continued module work. Use what came up in the PR review. |
+| **Mon – Thu** | Deep work on the week's module. Daily standups at 10:00 AM every morning. Fill the TPM board before you walk in. |
 | **Friday AM** | Peer review: 2 rounds of 30 minutes. Questions List written and handed to mentor before noon. |
 | **Friday PM** | Mentor review: 15 minutes per participant, working from the Questions List. |
 
