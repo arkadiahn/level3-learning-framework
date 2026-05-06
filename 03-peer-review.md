@@ -11,7 +11,9 @@
 
 Each week at LEVEL3 is one module. The Friday peer review is a structured conversation about that module — what you built, how you approached it, and what you still don't fully get.
 
-This is not a code review. Your job as reviewer is to **understand your peer's work** well enough to ask good questions, and together surface the gaps neither of you can fill on your own. Those gaps become the **Questions List**, which **goes to the mentor** in the afternoon.
+Your job as reviewer is to **understand your peer's work** well enough to ask good questions, and together surface the gaps neither of you can fill on your own. Those gaps become the **Questions List**, which **goes to the mentor** in the afternoon.
+
+You can make use of the **TPM board** for the **peer review preparation**. As you log tasks, blockers, and progress each day, you're building the material you'll use in Friday's peer review. Take ten minutes to scan your week on the board: What did you actually work on? Where did you get stuck? What would you do differently? The board is your source of truth — use it.
 
 ---
 
@@ -27,13 +29,13 @@ This is not a code review. Your job as reviewer is to **understand your peer's w
 
 ## Format: 2 rounds × 30 minutes
 
-Each pair reviews each other, so you're both reviewer and reviewee in the same session. If you're not sure what to look for or how to start the conversation, there's a checklist to help you — it covers the kinds of questions that tend to lead to good discussions.
+You will be randomly assigned in a pair for each round, once you will be a reviewer, and once a reviewee. If you're not sure what to look for or how to start the conversation, there's a checklist to help you — it covers the kinds of questions that tend to lead to good discussions.
 
 | Time | Activity |
 | --- | --- |
-| **0–5 min** | Author gives a quick module tour: what the week's goal was, what you built, one decision you're proud of |
-| **5–20 min** | Reviewer asks questions until they genuinely understand the approach. Author answers. If neither of you knows → it goes on the Questions List |
-| **20–30 min** | Together: anything you'd do differently? Can you implement one small improvement right now? |
+| **0–5 min** | Author gives a quick module tour: what the week's goal was, what you did and your approach, one blocker or one point you haven't fully understand |
+| **5–20 min** | Reviewer asks questions until they genuinely understand the approach. Author answers. If neither of you knows → it goes on the **Questions List** |
+| **20–30 min** | Reviewer check the code quality, implementation logic. Together: anything you'd do differently? Can you implement one small improvement right now? |
 
 ---
 

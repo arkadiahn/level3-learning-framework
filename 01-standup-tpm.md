@@ -9,19 +9,18 @@
 
 ## What it's for
 
-The standup isn't a status report — it's a communication exercise. The goal is to get comfortable putting your thinking into words: where you are, where you're going, and what's in your way. In a way that's actually useful to the people around you.
+**The standup** isn't a status report — it's a communication exercise. The goal is to get comfortable putting your thinking into words: where you are, where you're going, and what's in your way. In a way that's actually useful to the people around you. It also prepares you for the weekly peer review and mentor review by keeping a **running, honest record of progress and blockers**.
 
-The TPM (Total Productivity Management) board is a shared artifact. It makes the whole cohort's work visible, so peers can spot overlaps, offer help, and notice when someone's stuck before the meeting even starts.
+**The TPM** (Total Productivity Management) board is a shared artifact. It makes the whole cohort's work visible, so peers can spot overlaps, offer help, and notice when someone's stuck before the meeting even starts.
+
+**Unresolved blockers** are tasks or problems you couldn't solve on your own. If something is still stuck at the end of the day, write it down again tomorrow — explicitly, not just as a carryover. The act of re-writing it keeps it visible and forces you to check: is this still the real problem, or has it shifted? A blocker that appears three days in a row is a signal for the group to dig in together.
+
 
 ---
 
-## How it runs — and how to get something out of it
+## How does the TPM board work?
 
-Fill in your board **before you walk in** — not during the standup. Each participant answers three core questions:
-
-- What did I work on yesterday?
-- What am I working on today?
-- Is there anything blocking me?
+Fill in your board **before you the standup**. And here is our standardized way to write your block.
 
 Tags:
 
@@ -36,18 +35,32 @@ Tags:
 Example:
 
 ``` >plaintext
-ML-basics [Day 3]
+[Tue]
 ✓ Data cleaned + split (80/20)
-~ Linear model: forward pass ok, backprop buggy
-⚠ Gradient update unclear → will ask during standup
-→ Fix backprop, implement MSE eval
-```
+✓ Train a baseline model
+⚠ Understand metrics MSE
 
-But those three questions are just the start. To keep the standup sharp and useful, every participant should:
+[Wed]
+~ Logistic Regression implementation
+⚠ Gradient update unclear → will ask during standup
+→ implement MSE eval
+```
 
 **As you fill the board:**
 
 - If you're not blocked, ask yourself: *What part of my plan could go wrong?* or *What part am I least confident about?* Write that down instead. **Share the real question, not just progress**.
+
+---
+
+## And the Daily Standup meeting
+
+During the standup meeting, each participant answers three core questions (the TPM board is already a written version of this):
+
+- What did I work on yesterday?
+- What am I working on today?
+- Is there anything blocking me?
+
+But those three questions are just the start. To keep the standup sharp and useful, every participant should:
 
 **When you speak:**
 
@@ -56,9 +69,9 @@ But those three questions are just the start. To keep the standup sharp and usef
 
 **As you listen:**
 
-- When someone names a blocker, don't just nod. Ask one follow-up question: *What have you tried so far?* or *What would unblock you?*
-- When someone shares a decision, ask *why* — help them think it through out loud.
-- Actually listen. The goal is one real discussion per standup, not a round of mechanical updates.
+- When someone names a blocker and you know about it, notice them so that you can have a conversation later.
+- When someone shares a decision that is new to you, ask *why* — help them think it through out loud.
+- Actually listen (and take notes - if necessary). 
 
 ---
 
