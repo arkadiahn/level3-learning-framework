@@ -8,7 +8,7 @@
 
 LEVEL3 is not a course. There are no lectures, no slides handed to you, no teacher walking you through things step by step. The program is built around one core idea: **you own your project, and you own your learning.**
 
-That means you decide what to build, how to tackle problems, and when to ask for help. We give you structure, time, peers, and mentors — but the direction comes from you. It's how real developers work, and it's what LEVEL3 is here to prepare you for.
+That means you decide how to tackle problems and when to ask for help. We give you structure, time, peers, and mentors — but the direction comes from you. It's how real developers work, and it's what LEVEL3 is here to prepare you for.
 
 But ownership doesn't mean going it alone. The best developers are also great collaborators. Your peers are your primary source of feedback and support. Share what you learn, ask questions openly, help each other get unstuck, and review each other's work honestly.
 
