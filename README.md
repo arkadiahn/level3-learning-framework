@@ -44,13 +44,13 @@ Learning at LEVEL3 is structured around five interconnected practices. Each one 
 
 ## The Weekly Rhythm
 
-All five tools fit into the same weekly cycle. Each week is one module, and the rhythm stays the same throughout the track — so you can stop thinking about the structure and focus on the work.
+All four tools fit into the same weekly cycle (PR Review is a one-time session). Each week is one module, and the rhythm stays the same throughout the track — so you can stop thinking about the structure and focus on the work.
 
 | When | What |
 | --- | --- |
-| **Mon – Thu** | Deep work on the week's module. Daily standups at 10:00 AM every morning. Fill the TPM board before you walk in. |
-| **Friday AM** | Peer review: 2 rounds of 30 minutes. Questions List written and handed to mentor before noon. |
-| **Friday PM** | Mentor review: 15 minutes per participant, working from the Questions List. |
+| **Mon – Thu** | Deep work on the week's module. Daily standups at 10:00 AM every morning.|
+| **Review day AM** | Peer review: 2 rounds of 30 minutes. Questions List written and handed to mentor before noon. |
+| **Review day PM** | Answer common question from the Question List. Mentor review: 15 minutes per participant. |
 
 ---
 

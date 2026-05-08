@@ -54,7 +54,7 @@ Example:
 
 ## And the Daily Standup meeting
 
-During the standup meeting, each participant answers three core questions (the TPM board is already a written version of this):
+During the standup, each participant answers three core questions (the TPM board is already a written version of this):
 
 - What did I work on yesterday?
 - What am I working on today?

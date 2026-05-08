@@ -2,14 +2,14 @@
 
 ← [Back to Learning Framework](./README.md)
 
-**When:** Friday morning, 2 rounds × 30 minutes  
+**When:** Review day morning, 2 rounds × 30 minutes  
 **Artifact:** Questions List handed to mentor before noon
 
 ---
 
 ## What it's for
 
-Each week at LEVEL3 is one module. The Friday peer review is a structured conversation about that module — what you built, how you approached it, and what you still don't fully get.
+Each week at LEVEL3 is one module. The peer review is a structured conversation about that module — what you built, how you approached it, and what you still don't fully get.
 
 Your job as reviewer is to **understand your peer's work** well enough to ask good questions, and together surface the gaps neither of you can fill on your own. Those gaps become the **Questions List**, which **goes to the mentor** in the afternoon.
 
@@ -17,7 +17,7 @@ You can make use of the **TPM board** for the **peer review preparation**. As yo
 
 ---
 
-## Friday morning timeline
+## Peer review timeline
 
 | Time | Activity |
 | --- | --- |
@@ -55,9 +55,9 @@ Use this if you're not sure where to start:
 
 ## The Questions List
 
-The most important thing that comes out of the peer review is the Questions List — not the conversation itself. Write down **1–3 specific questions** you couldn't answer together and hand it to the mentor before the afternoon session.
+If there are un-resolved questions from the Peer Review, write them down. LEVEL3 team will provide you access to a share Document file, in which you can write down those questions. Please also notice if your question is duplicated with questions from other pairs.
 
-Two things this achieves: you've genuinely tried to resolve things before escalating, and the mentor's 15 minutes go entirely to stuff that actually needed a senior perspective. Mentors should get the list before sitting down — no warm-up needed.
+This list will be handed to the mentor before the afternoon session.
 
 ---
 

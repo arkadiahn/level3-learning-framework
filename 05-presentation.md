@@ -12,8 +12,6 @@
 
 The final presentation closes the track. It's a public communication exercise: synthesise what you built, why you made the decisions you made, and what you'd do differently. You'll train clarity of thought, confidence in front of an audience, and the ability to make technical work legible to others — something that matters a lot in any professional setting.
 
-The presentation should be something you could take and deliver somewhere else — at a meetup, a job interview, a conference lightning talk. It's yours to keep.
-
 ---
 
 ## Presentation day timeline
