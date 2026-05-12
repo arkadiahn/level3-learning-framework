@@ -10,7 +10,7 @@
 
 ## What it's for
 
-The final presentation closes the track. It's a public communication exercise: synthesise what you built, why you made the decisions you made, and what you'd do differently. You'll train clarity of thought, confidence in front of an audience, and the ability to make technical work legible to others — something that matters a lot in any professional setting.
+The final presentation closes the track. It's a public communication exercise: synthesise what you built, why you made the decisions you made, and what you'd do differently. You'll train clarity of thought, confidence in front of an audience, and the ability to make technical work legible to others — something that matters a lot in any professional setting. You will **work together** and **present together**, so be punctual and help out your peers with creating content, designing slides and structuring the presentation order.
 
 ---
 
@@ -37,6 +37,27 @@ A good talk has a clear arc. Here's the format we use:
 5. **What you learned** — honest reflections from the track. What surprised you? What would you do differently?
 6. **Outlook** — where could this go next? What's the natural extension or open question?
 7. **Q&A** — open it up. Be ready for tough questions, and be honest if you don't know something.
+
+---
+
+## Tool suggestions
+
+You've got a full day — don't spend half of it figuring out how to make things look good. These tools can help you move faster. None of them are required; use what works for you.
+
+- **[Canva](https://www.canva.com)** — fast, good-looking slide templates with almost no learning curve. Great if you want your deck to look clean without spending time on design. Pick one template and stick to it.
+- **[NotebookLM](https://notebooklm.google.com)** — paste in your notes, code comments, or weekly write-ups and ask it to help you find the story or structure your talk. Useful for turning a week of scattered thinking into a rough outline. Treat its output as a starting point, not a script — the Q&A will expose anything that doesn't actually come from you.
+- **[Excalidraw](https://excalidraw.com)** — a free browser tool for quick hand-drawn-style diagrams. Perfect for the technical explanation slide. Faster than PowerPoint shapes and often clearer than a polished architecture diagram.
+- **[OBS Studio](https://obsproject.com)** — free screen recorder for capturing your demo. Record a clean run-through on Friday morning so you have a backup if the live demo goes sideways. It will.
+
+---
+
+## What makes a good slide
+
+- **Less text, more visuals.** If you're reading your slide out loud, the slide is doing your job. Use it to show something you can't say — a diagram, a screenshot, a before/after, a number that lands with context.
+- **Big fonts.** Anything below 24pt is probably too small for the room. When in doubt, go bigger.
+- **One strong title per slide.** Not "Architecture" — "Why we split the pipeline into two stages". The title should carry the point, not just label the topic.
+- **Your demo gets its own slide — or just a blank screen.** Don't present over a cluttered slide while you're demoing. Switch to the live app or recording, let it breathe, then come back to your deck.
+- **The last slide is not "Thank you".** End on something that sticks — your outlook, a question you're still thinking about, or the one thing you want the audience to remember. "Thank you" is a moment, not a slide.
 
 ---
 

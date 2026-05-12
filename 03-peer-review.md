@@ -15,6 +15,8 @@ Your job as reviewer is to **understand your peer's work** well enough to ask go
 
 You can make use of the **TPM board** for the **peer review preparation**. As you log tasks, blockers, and progress each day, you're building the material you'll use in Friday's peer review. Take ten minutes to scan your week on the board: What did you actually work on? Where did you get stuck? What would you do differently? The board is your source of truth — use it.
 
+During the review, please focus on functionality, solution and learning reviews, as presented in the review document.
+
 ---
 
 ## Peer review timeline
