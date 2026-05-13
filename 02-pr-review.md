@@ -11,7 +11,7 @@
 
 The PR review is a focused **practice session for the mechanics of professional code review**. You open a pull request, a peer reviews it with written comments, you discuss it live, and it's closed the same afternoon. That's it.
 
-The goal here is to practice reading unfamiliar code carefully, writing specific and constructive feedback, and being able to defend your own decisions in writing.
+The goal here is to practice reading unfamiliar code carefully, writing specific and constructive feedback, and being able to defend your own decisions in writings.
 
 ---
 
