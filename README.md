@@ -48,7 +48,7 @@ All four tools fit into the same weekly cycle (PR Review is a one-time session).
 
 | When | What |
 | --- | --- |
-| **Mon – Thu** | Deep work on the week's module. Daily standups at 10:00 AM every morning.|
+| **Mon – Thu** | Deep work on the week's module. Daily standups at 10:00 AM every morning. |
 | **Review day AM** | Peer review: 2 rounds of 30 minutes. Questions List written and handed to mentor before noon. |
 | **Review day PM** | Answer common question from the Question List. Mentor review: 15 minutes per participant. |
 

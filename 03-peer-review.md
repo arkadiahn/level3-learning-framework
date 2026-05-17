@@ -3,7 +3,7 @@
 ← [Back to Learning Framework](./README.md)
 
 **When:** Review day morning, 2 rounds × 30 minutes  
-**Artifact:** Questions List handed to mentor before noon
+**Artifact:** Filled peer review documents and Questions List
 
 ---
 
@@ -31,27 +31,13 @@ During the review, please focus on functionality, solution and learning reviews,
 
 ## Format: 2 rounds × 30 minutes
 
-You will be randomly assigned in a pair for each round, once you will be a reviewer, and once a reviewee. If you're not sure what to look for or how to start the conversation, there's a checklist to help you — it covers the kinds of questions that tend to lead to good discussions.
+You will be randomly assigned in a pair for each round, once you will be a reviewer, and once a reviewee. You as a reviewer will be able to access a Google Doc file provided by the LEVEL3 team to review your peer. You are supposed to fill out this file during the review session.
 
 | Time | Activity |
 | --- | --- |
 | **0–5 min** | Author gives a quick module tour: what the week's goal was, what you did and your approach, one blocker or one point you haven't fully understand |
-| **5–20 min** | Reviewer asks questions until they genuinely understand the approach. Author answers. If neither of you knows → it goes on the **Questions List** |
-| **20–30 min** | Reviewer check the code quality, implementation logic. Together: anything you'd do differently? Can you implement one small improvement right now? |
-
----
-
-## Reviewer checklist
-
-Use this if you're not sure where to start:
-
-- Can you explain back what the author built and why they approached it that way?
-- What's the most interesting decision they made? Do you agree with it?
-- Is there anything in the code you didn't understand after reading it?
-- What would happen at the edges — unexpected inputs, failures, scale?
-- Is the structure of the code easy to follow for someone new to it?
-- What's one thing you would have done differently, and why?
-- Is there anything here you want to borrow for your own project?
+| **5–30 min** | Reviewer asks questions until they understand the approach. Author answers. If neither of you knows → it goes on the **Questions List** |
+| **if time permits** | Reviewer check the code quality, implementation logic. Together: anything you'd do differently? Can you implement one small improvement right now? |
 
 ---
 
