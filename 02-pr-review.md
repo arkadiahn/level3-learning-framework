@@ -2,14 +2,14 @@
 
 ← [Back to Learning Framework](./README.md)
 
-**When:** Friday 12th June, 14:30 AM – 16:00 AM  
+**When:** Monday 15th June, 9:30 AM – 11:00 AM  
 **Artifact:** PR opened and closed same day
 
 ---
 
 ## What it's for
 
-The PR review is a focused **practice session for the mechanics of professional code review**. You open a pull request, a peer reviews it with written comments, you discuss it live, and it's closed the same afternoon. That's it.
+The PR review is a focused **practice session for the mechanics of professional code review**. You open a pull request, a peer reviews it with written comments, you discuss it live, and it's closed the same morning. That's it.
 
 The goal here is to practice reading unfamiliar code carefully, writing specific and constructive feedback, and being able to defend your own decisions in writing.
 
@@ -42,15 +42,15 @@ Keep it small — under **25 lines changed** (additions and deletions combined).
 
 ---
 
-## Wednesday timeline
+## PR review timeline
 
 | Time | Activity |
 | --- | --- |
-| **14:30 - 15:00** | Find bugs and open PR |
-| **15:00 – 15:30** | Reviewer reads the code independently and leaves written comments (aim for at least 2 meaningful ones) |
-| **15:30 – 15:45** | Round 1 - Author and reviewer sit together, walk through each comment, discuss and resolve |
-| **15:45 – 16:00** | Round 2 - Author and reviewer sit together, walk through each comment, discuss and resolve |
-| **By 16:00** | PR is merged or closed with a short written summary. Done. |
+| **9:30 - 10:00** | Find bugs and open PR |
+| **10:00 – 10:30** | Reviewer reads the code independently and leaves written comments (aim for at least 2 meaningful ones) |
+| **10:30 – 10:45** | Round 1 - Author and reviewer sit together, walk through each comment, discuss and resolve |
+| **10:45 – 11:00** | Round 2 - Author and reviewer sit together, walk through each comment, discuss and resolve |
+| **By 11:00** | PR is merged or closed with a short written summary. Done. |
 
 ---
 
@@ -64,8 +64,6 @@ Your written comments should cover some of the following. Not all of them — bu
 - Is anything repeated that could be extracted or reused?
 - Are edge cases or errors handled?
 - What's one thing you'd do differently, and why?
-
-> **The rule that makes prep non-optional:** Every comment you write must be specific enough that you can explain it verbally during the discussion. No vague feedback like "looks good" or "fix this" — each comment needs a clear point you can defend. That means you can't skim and rubber-stamp — you have to read carefully enough to actually have an opinion.
 
 ---
 
