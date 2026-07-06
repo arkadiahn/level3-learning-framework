@@ -15,7 +15,6 @@
 
 **Unresolved blockers** are tasks or problems you couldn't solve on your own. If something is still stuck at the end of the day, write it down again tomorrow — explicitly, not just as a carryover. The act of re-writing it keeps it visible and forces you to check: is this still the real problem, or has it shifted? A blocker that appears three days in a row is a signal for the group to dig in together.
 
-
 ---
 
 ## How does the TPM board work?
@@ -27,10 +26,8 @@ Tags:
 | Tag | Meaning |
 | --- | --- |
 | ✓ | Done |
-| ~ | In-progress |
-| ⚠ | Blocker |
-| → | Next step |
-| ? | Need review / feedback |
+| ! | Blocker |
+| ? | Need help |
 
 Example:
 
@@ -38,17 +35,13 @@ Example:
 [Tue]
 ✓ Data cleaned + split (80/20)
 ✓ Train a baseline model
-⚠ Understand metrics MSE
+! Understand metrics MSE
 
 [Wed]
-~ Logistic Regression implementation
-⚠ Gradient update unclear → will ask during standup
-→ implement MSE eval
+? Logistic Regression implementation
+! Gradient update unclear → will ask during standup
+✓ implement MSE eval
 ```
-
-**As you fill the board:**
-
-- If you're not blocked, ask yourself: *What part of my plan could go wrong?* or *What part am I least confident about?* Write that down instead. **Share the real question, not just progress**.
 
 ---
 
@@ -71,7 +64,9 @@ But those three questions are just the start. To keep the standup sharp and usef
 
 - When someone names a blocker and you know about it, notice them so that you can have a conversation later.
 - When someone shares a decision that is new to you, ask *why* — help them think it through out loud.
-- Actually listen (and take notes - if necessary). 
+- Actually listen (and take notes - if necessary).
+
+**No phone or laptop use duting the Daily Standup**
 
 ---
 

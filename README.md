@@ -20,11 +20,11 @@ Mentors aren't here to give you answers. They're here to push your thinking to a
 
 ## Core hours and 2-strike-policy
 
-To give yourself the best chance of success, plan to invest **40+ hours per week** into your projects. We've set up **core hours from 9:30 to 16:00** (with a lunch break somewhere between 12:00 and 14:00) — during this time, we ask everyone to be present in the LEVEL3 room. Coming in early or staying later is always great! That said, core hours only account for 5.5 hours a day, so you'll need to put in additional time outside of that to keep up. Work hard, but don't forget to take care of yourself too. 🙂
+To give yourself the best chance of success, plan to invest **40+ hours per week** into your projects. We've set up **core hours from 9:30 to 16:00** (with a one-hour lunch break between 12:00 and 14:00) — during this time, we ask everyone to be present in the LEVEL3 room. Coming in early or staying later is always great! That said, core hours only account for 5.5 hours a day, so you'll need to put in additional time outside of that to keep up. Work hard, but don't forget to take care of yourself too. 🙂
 
 Life happens, and it's totally fine to miss a day for health reasons or an important appointment. Just give us a heads-up beforehand — a Discord message or email works perfectly. If something unexpected comes up, let us know as soon as you can. The one thing to keep in mind is that **missing more than 20% of the track (that's 6 days over a 6-week track) means you won't be able to continue**, so do try to stay consistent.
 
-If you forget to notify us about an absence, we'll send you a friendly reminder on Discord — but we'll also log it as a **strike**. Two strikes and you'll have to leave the track, so please do keep us in the loop! 🙏
+If you forget to notify us about an absence, we'll send you a friendly reminder on Discord — but we'll also log it as a **strike**. After two strikes and you'll have to leave the track, so please do keep us in the loop! 🙏
 
 ---
 
@@ -35,10 +35,10 @@ Learning at LEVEL3 is structured around five interconnected practices. Each one 
 | Tool | Purpose | Artifact |
 | --- | --- | --- |
 | [Daily Standup & TPM Board](./01-standup-tpm.md) | Progress visibility, accountability, awareness of what peers are working on | Updated board + spoken update |
-| [Peer Review](./03-peer-review.md) | Module reflection, peer teaching, surface what you don't fully understand yet | Questions List handed to mentor |
-| [Mentor Review](./04-mentor-review.md) | High-level architecture, blind spots, quality of thinking | — |
-| [PR Review](./02-pr-review.md) | Practice the mechanics of code review — reading, commenting, responding | PR opened and closed same day |
-| [Final Presentation](./05-presentation.md) | Public communication, synthesis, confidence | A deck you can take and present anywhere |
+| [Peer Review](./02-peer-review.md) | Module reflection, peer teaching, surface what you don't fully understand yet | Questions List handed to mentor |
+| [Mentor Review](./03-mentor-review.md) | High-level architecture, blind spots, quality of thinking | — |
+| [Final Presentation](./04-presentation.md) | Public communication, synthesis, confidence | A deck you can take and present anywhere |
+| [PR Review (optional)](./05-pr-review.md) | Practice the mechanics of code review — reading, commenting, responding | PR opened and closed same day |
 
 ---
 
