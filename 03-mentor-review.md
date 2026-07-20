@@ -19,7 +19,8 @@ You will provide us the link to your GitHub repository (once – at the beginnin
 
 | Time | Activity |
 | --- | --- |
-| **13:00 – 16:00** | 15-minute review with each participants, with break in between. |
+| **13:00 – 13:15** | 1 team presents the theory part of the week. |
+| **13:15 – 16:00** | 5 team presents their implementations. |
 
 ---
 
