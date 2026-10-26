@@ -9,18 +9,24 @@
 
 ## What it's for
 
-This is where the high-level thinking happens — code quality, architectural decisions, patterns you can't yet see, assumptions you haven't questioned. It's not a tutorial and it's not a debugging session.
-
-You will provide us the link to your GitHub repository (once – at the beginning of the track). The mentor will check your implementation before the review session and discuss about your approach within this 15-minute session.
+This is where the high-level thinking happens — architectural decisions, patterns you can't yet see, assumptions you haven't questioned.
 
 ---
+
+## How does it work?
+
+You will have roughly 2 hours to work with your teammate (team of 3) to prepare a presentation to present the work you and your team has done. Slides are not required, but a structured way of presenting are highly encouraged.
+
+You can use different tool to showcase your work: some visualizations (charts, graphs), slides (look at [presentation](./04-presentation.md) for some tool suggestions), key points (e.g. Notion), or just the bare Jupyter Notebook (remember to structure it nicely).
 
 ## Friday afternoon timeline
 
 | Time | Activity |
 | --- | --- |
-| **13:00 – 13:15** | 1 team presents the theory part of the week. |
-| **13:15 – 16:00** | 5 team presents their implementations. |
+| **14:00 – 14:30** | 1st team presents. |
+| **14:30 – 15:00** | 2nd team presents. |
+| **15:00 – 15:30** | 3rd team presents. |
+| **15:30 – 16:00** | 4td team presents. |
 
 ---
 
