@@ -2,18 +2,18 @@
 
 ← [Back to Learning Framework](./README.md)
 
-**When:** Every morning at 10:00 AM, 15–20 minutes  
+**When:** Every morning at 10:00 AM, 15–30 minutes  
 **Artifact:** Updated TPM board + spoken update
 
 ---
 
 ## What it's for
 
-**The standup** isn't a status report — it's a communication exercise. The goal is to get comfortable putting your thinking into words: where you are, where you're going, and what's in your way. In a way that's actually useful to the people around you. It also prepares you for the weekly peer review and mentor review by keeping a **running, honest record of progress and blockers**.
+**The standup** is a communication exercise. The goal is to get comfortable putting your thinking into words: what you have done, what are the problems and what will you do. In a way that's actually useful to the people around you. It also prepares you for the weekly *peer review* and *mentor *review by keeping a **record of progress and blockers**.
 
-**The TPM** (Total Productivity Management) board is a shared artifact. It makes the whole cohort's work visible, so peers can spot overlaps, offer help, and notice when someone's stuck before the meeting even starts.
+**The TPM** (Total Productivity Management) board is a shared artifact. It makes the whole cohort's work visible, so peers can spot overlaps, offer help, and notice when someone's stuck.
 
-**Unresolved blockers** are tasks or problems you couldn't solve on your own. If something is still stuck at the end of the day, write it down again tomorrow — explicitly, not just as a carryover. The act of re-writing it keeps it visible and forces you to check: is this still the real problem, or has it shifted? A blocker that appears three days in a row is a signal for the group to dig in together.
+**Unresolved blockers** are tasks or problems you couldn't solve on your own. If something is still stuck at the end of the day, write it down again tomorrow — explicitly, not just as a carryover. The act of re-writing it keeps it visible and forces you to check: is this still the real problem, or has it shifted?
 
 ---
 
@@ -57,8 +57,7 @@ But those three questions are just the start. To keep the standup sharp and usef
 
 **When you speak:**
 
-- Keep your update short. The standup surfaces topics — the deeper conversations happen after.
-- If a peer's update connects to something you're working on, say so immediately.
+- Keep your update *short*. The standup surfaces topics — the deeper conversations happen after.
 
 **As you listen:**
 
