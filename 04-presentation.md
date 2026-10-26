@@ -44,6 +44,7 @@ A good talk has a clear arc. Here's the format we use:
 
 You've got a full day — don't spend half of it figuring out how to make things look good. These tools can help you move faster. None of them are required; use what works for you.
 
+- **[Slidev](https://sli.dev)** (recommended) — markdown-based slides for developers. Write your deck in a single Markdown file, keep diagrams and code blocks clean, and present from the browser. Strong fit if your talk is technical.
 - **[Canva](https://www.canva.com)** — fast, good-looking slide templates with almost no learning curve. Great if you want your deck to look clean without spending time on design. Pick one template and stick to it.
 - **[NotebookLM](https://notebooklm.google.com)** — paste in your notes, code comments, or weekly write-ups and ask it to help you find the story or structure your talk. Useful for turning a week of scattered thinking into a rough outline. Treat its output as a starting point, not a script — the Q&A will expose anything that doesn't actually come from you.
 - **[Excalidraw](https://excalidraw.com)** — a free browser tool for quick hand-drawn-style diagrams. Perfect for the technical explanation slide. Faster than PowerPoint shapes and often clearer than a polished architecture diagram.

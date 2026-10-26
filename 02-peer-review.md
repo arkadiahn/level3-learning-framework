@@ -2,7 +2,7 @@
 
 ← [Back to Learning Framework](./README.md)
 
-**When:** Review day morning, 2 rounds × 30 minutes  
+**When:** Review day morning, 2 rounds × 45 minutes  
 **Artifact:** Filled peer review documents and Questions List
 
 ---
@@ -23,29 +23,28 @@ During the review, please focus on functionality, solution and learning reviews,
 
 | Time | Activity |
 | --- | --- |
-| **9:30 – 10:00** | Preparation: go through your own work and structure how you want to present it to your peers |
-| **10:00 – 10:30** | First round |
-| **10:30 – 11:00** | Second round |
+| **09:30 – 10:15** | First round |
+| **10:15 – 11:00** | Second round |
 
 ---
 
-## Format: 2 rounds × 30 minutes
+## Format: 2 rounds × 45 minutes
 
 You will be randomly assigned in a pair for each round, once you will be a reviewer, and once a reviewee. You as a reviewer will be able to access a Google Doc file provided by the LEVEL3 team to review your peer. You are supposed to fill out this file during the review session.
 
 | Time | Activity |
 | --- | --- |
 | **0–5 min** | Author gives a quick module tour: what the week's goal was, what you did and your approach, one blocker or one point you haven't fully understand |
-| **5–30 min** | Reviewer asks questions until they understand the approach. Author answers. If neither of you knows → it goes on the **Questions List** |
+| **40 min** | Reviewer asks questions until they understand the approach. Author answers. If neither of you knows → it goes on the **Questions List** |
 | **if time permits** | Reviewer check the code quality, implementation logic. Together: anything you'd do differently? Can you implement one small improvement right now? |
 
 ---
 
 ## The Questions List
 
-If there are un-resolved questions from the Peer Review, write them down. LEVEL3 team will provide you access to a share Document file, in which you can write down those questions. Please also notice if your question is duplicated with questions from other pairs.
+If there are un-resolved questions from the Peer Review, write them down. Please also notice if your question is duplicated with questions from other pairs.
 
-This list will be handed to the mentor before the afternoon session.
+This list will be handed to the mentor before or during the afternoon session.
 
 ---
 
